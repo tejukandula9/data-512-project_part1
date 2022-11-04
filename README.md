@@ -36,11 +36,10 @@ For this project we use Covid-19 Cases data from Johns-Hopkins, CDC data about m
   - DATA512 Project Part 1.ipynb: Code for analysis and visualization
 
 ## Project Sources and Licenses
+[US Confirmed Cases]('www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university')
 
-[US Confirmed Cases]('https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university')
+[US Mask Mandates]('data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i')
 
-[US Mask Mandates]('https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i')
+[Mask Compliance]('github.com/nytimes/covid-19-data/tree/master/mask-use')
 
-[Mask Compliance]('https://github.com/nytimes/covid-19-data/tree/master/mask-use')
-
-[Philadelphia Vaccine Data]('https://www.phila.gov/programs/coronavirus-disease-2019-covid-19/vaccines/vaccine-data/')
+[Philadelphia Vaccine Data]('www.phila.gov/programs/coronavirus-disease-2019-covid-19/vaccines/vaccine-data/')
